@@ -1,2 +1,2 @@
 # Time-Series-Forecasting
-Forecasting Projects (Temperature projections and Wage forecasting) working with Time Series forecasting models: SARIMA/X, ARIMA, Prophet, LSTM, Holt-Winters, ETS.
+Forecasting Projects (Temperature projections and Wage Forecasting) using various time series models including: SARIMA/X, ARIMA, Prophet, LSTM, Holt-Winters and ETS.
